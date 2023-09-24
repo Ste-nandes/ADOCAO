@@ -1,0 +1,83 @@
+body{
+   
+    background-image: url('Adote\ um\ au\ migo!.png');
+    background-repeat: no-repeat;
+    background-size: 1350px;
+    background-position-x: right;
+    margin-top: 30px;
+}
+
+navbar{
+    display: inline;
+}
+
+.cabeçalho-esquerda{
+    text-align: center;
+    word-spacing: 60px;
+    float: left;
+    margin-left: 80px;
+}
+
+.cabeçalho-direita{
+    word-spacing: 150px;
+    float: right;
+    margin-right: 80px;
+    font-family: 'Chewy', cursive;
+    color: black;
+    font-size: 40px;
+    display: inline;
+}
+
+.logo{
+    align-items: center;
+    margin-left: 430px;
+    display: inline;
+    
+}
+ 
+#texto1{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+
+#texto2{
+    font-family: 'Chewy', cursive;
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container{
+    display: block;
+    margin-left: 230px;
+    margin-top: 250px;
+    font-size: 80px;
+}
+
+.cadastro{
+    margin-left: 330px;
+}
+
+#input{
+  width: 470px;
+  height: 50px;
+  margin-top: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+button{
+    font-family: 'Chewy', cursive;
+    margin-left: 480px;
+    border-radius: 50px;
+    background-color: rgb(255, 222, 89);
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+}
+
+section{
+    min-height: 100vh;
+}
